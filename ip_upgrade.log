@@ -1,0 +1,16 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
+| Date         : Mon Dec 12 14:04:40 2022
+| Host         : LAPTOP-0O7KFB10 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Hexadecimal_Editor_clk_wiz_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of Hexadecimal_Editor_clk_wiz_0_0 (xilinx.com:ip:clk_wiz:6.0) from (Rev. 3) to (Rev. 5)
+
